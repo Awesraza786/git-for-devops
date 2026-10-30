@@ -1,0 +1,8 @@
+git init
+git status
+git add
+git commit -m "message"
+git clone <url>
+rm <filename>
+git rm --cached <filename> to unstage from stage
+git restore <filename> restore delete file 
