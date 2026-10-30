@@ -6,3 +6,12 @@ git clone <url>
 rm <filename>
 git rm --cached <filename> to unstage from stage
 git restore <filename> restore delete file 
+git remote add origin "url"
+git remote origin master
+git push origin master
+git branch 
+git branch -M main
+git branch -M master 
+git remote origin master 
+git push origin master
+fir push origin main
